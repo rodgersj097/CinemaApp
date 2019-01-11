@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="apk" name="BarrieCinema">
+    <output-path>$USER_HOME$/Documents</output-path>
+    <properties id="android-properties">
+      <options>
+        <option name="keyStoreUrl" value="file://" />
+      </options>
+    </properties>
+    <root id="archive" name="BarrieCinema.apk" />
+  </artifact>
+</component>
